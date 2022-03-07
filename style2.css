@@ -1,3 +1,9 @@
 header img {
     height: 80px;
 }
+body {
+    height: 125vh;
+    background-image: url('https://i.imgur.com/kW1fQkN.png');
+    background-size: cover;
+    font-family: sans-serif;
+}
