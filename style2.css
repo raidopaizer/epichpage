@@ -6,7 +6,7 @@ body {
     height: 125vh;
     background-image: url('https://i.imgur.com/kW1fQkN.png');
     background-size: cover;
-    font-family: sans-serif;
+    font-family: 'pusab-regular', sans-serif;
     margin-top: 80px;
     padding: 30px;
 }
