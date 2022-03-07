@@ -6,6 +6,7 @@ body {
     background-image: url('https://i.imgur.com/kW1fQkN.png');
     background-size: cover;
     font-family: sans-serif;
+    margin-top: 80px;
 }
 
 main {
@@ -13,7 +14,7 @@ main {
 }
 
 header {
-    background-color: orange;
+    background-color: white;
     position: fixed;
     top: 0;
     left: 0;
