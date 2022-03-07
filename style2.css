@@ -40,14 +40,3 @@ header li a {
     text-decoration: none;
 }
 
-button {
- display: block;
- border: solid white;
- border-width: 0 10px;
- border-radius: 0;
- background: green;
- color: white;
- font-size: 18px;
- margin: 30px auto 5px;
- padding: 15px;
-}
