@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>epok links v2</title>
+        <link rel="stylesheet" href="style2.css">
+    </head>
+    <body>
+        <header>
+           <img src="favicon.ico">
+            <nav>
+                <ul>
+                    <li><a href="https://sandsweb.tk/">Home</a></li>
+                    <li><a href="games">Games</a></li>
+                    <li><a href="websites">websites</a></li>
+                    <li><a href="about">About</a></li>
+                    <li><a href="contact">Contact</a></li>
+                </ul>
+            </nav>
+        </header>
+        <main>
+            <button onclick="window.location.href = 'https://schooladam.herokuapp.com/';"> vandium proxy works well with some sites </button>
+            <button onclick="window.location.href = 'https://womgni.herokuapp.com/';"> womginx </button>
+            <button onclick="window.location.href = 'https://mattheffnt.github.io/skin-packer/';"> skin packer from mattheffnt </button>
+            <button onclick="window.location.href = 'https://gdcolon.com/%F0%9F%97%BF';"> epok gdcolon site </button>
+            <button onclick="window.location.href = 'https://unknwownssand.github.io/ilebosnotmine/';"> ileb os original creators on scratch </button>
+            <button onclick="window.location.href = 'https://libreddit.spike.codes/';"> libreddit </button>
+            <button onclick="window.location.href = 'https://sandsweb.tk/youtube';"> youtube instances </button>
+        </main>
+    </body>
+</html>
