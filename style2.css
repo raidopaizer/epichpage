@@ -1,9 +1,9 @@
+@import url('http://fonts.cdnfonts.com/css/pusab');
+
 header img {
     height: 80px;
     margin-left: 40px;
 }
-@import url('http://fonts.cdnfonts.com/css/pusab');
-
 body {
     height: 125vh;
     background-image: url('https://i.imgur.com/kW1fQkN.png');
@@ -15,6 +15,7 @@ body {
 
 main {
     color: white;
+    font-family: 'Pusab', sans-serif;
 }
 
 header {
@@ -27,18 +28,22 @@ header {
     display: flex;
     align-items: center;
     box-shadow: 0 0 25px 0 black;
+    font-family: 'Pusab', sans-serif;
 }
 
 header * {
     display: inline;
+    font-family: 'Pusab', sans-serif;
 }
 
 header li {
     margin: 20px;
+    font-family: 'Pusab', sans-serif;
 }
 
 header li a {
     color: black;
     text-decoration: none;
+    font-family: 'Pusab', sans-serif;
 }
 
