@@ -2,14 +2,13 @@ header img {
     height: 80px;
     margin-left: 40px;
 }
-
-@import url(https://allfont.net/allfont.css?fonts=pusab);
+@import url('http://fonts.cdnfonts.com/css/pusab');
 
 body {
     height: 125vh;
     background-image: url('https://i.imgur.com/kW1fQkN.png');
     background-size: cover;
-    font-family: 'Pusab', arial;
+    font-family: 'Pusab', sans-serif;
     margin-top: 80px;
     padding: 30px;
 }
