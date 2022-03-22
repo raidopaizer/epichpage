@@ -4,7 +4,7 @@ header img {
 }
 body {
     height: 125vh;
-    background-image: url('https://i.imgur.com/oaVHZQy.png');
+    background-image: url('https://i.imgur.com/veOa7os.jpeg');
     background-size: cover;
     font-family: sans-serif;
     margin-top: 80px;
@@ -12,11 +12,11 @@ body {
 }
 
 main {
-    color: white;
+    color: black;
 }
 
 header {
-    background-color: white;
+    background-color: black;
     position: fixed;
     top: 0;
     left: 0;
@@ -24,7 +24,7 @@ header {
     height: 80px;
     display: flex;
     align-items: center;
-    box-shadow: 0 0 25px 0 black;
+    box-shadow: 0 0 25px 0 white;
 }
 
 header * {
@@ -36,6 +36,6 @@ header li {
 }
 
 header li a {
-    color: black;
+    color: white;
     text-decoration: none;
 }
