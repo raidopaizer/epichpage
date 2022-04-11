@@ -4,7 +4,7 @@ header img {
 }
 body {
     height: 125vh;
-    background-image: url('https://i.imgur.com/gf7MTjt.png');
+    background-image: url('https://i.imgur.com/dnmFtTJ.png');
     background-size: cover;
     font-family: sans-serif;
     margin-top: 80px;
@@ -12,7 +12,7 @@ body {
 }
 
 main {
-    color: white;
+    color: black;
 }
 
 header {
